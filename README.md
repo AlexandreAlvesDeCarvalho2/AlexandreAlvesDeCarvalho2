@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é @AlexandreAlvesDeCarvalho2
+- 👋 Olá, meu nome é Alexandre Alves de Carvalho
 - 👀 Estou interessado em Desenvolvimento Mobile  
 - 🌱 Atualmente estudando Analise e Desenvolvimento de Sistemas na Fiap
 - 🌱 Aprendendo sobre Flutter na plataforma Udemy. Curso criado pelo Daniel Ciolfi.
